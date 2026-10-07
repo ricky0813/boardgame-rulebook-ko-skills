@@ -8,7 +8,7 @@
       "name": "boardgame-rulebook-ko",
       "source": {
         "source": "local",
-        "path": "./plugins/boardgame-rulebook-ko"
+        "path": "./"
       },
       "policy": {
         "installation": "AVAILABLE",
