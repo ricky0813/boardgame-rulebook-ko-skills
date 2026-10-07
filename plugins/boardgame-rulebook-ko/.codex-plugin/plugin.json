@@ -1,0 +1,20 @@
+{
+  "name": "boardgame-rulebook-ko",
+  "version": "0.1.0",
+  "description": "Korean localization workflows for board-game rulebook PDFs, including translation and typesetting, graphic restoration, and cover-title artwork.",
+  "author": {
+    "name": "ricky0813"
+  },
+  "repository": "https://github.com/ricky0813/boardgame-rulebook-ko-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "보드게임 규칙서 한국어화",
+    "shortDescription": "번역·조판·이미지 복원·표지 타이틀 제작 스킬",
+    "longDescription": "규칙서 PDF를 한국어화할 때 판본과 에라타를 확인하고, 페이지별 조판과 원본 비교를 진행합니다. 흐린 도해 복원과 한국어 표지 타이틀 제작은 별도 스킬로 처리합니다.",
+    "developerName": "ricky0813",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "defaultPrompt": "이 보드게임 규칙서 PDF를 한국어화해 줘. 먼저 표지 게임 타이틀의 한국어화 여부를 물어봐 줘."
+  }
+}

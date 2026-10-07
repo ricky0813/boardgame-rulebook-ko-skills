@@ -1,0 +1,4 @@
+interface:
+  display_name: "보드게임 규칙서 한국어화"
+  short_description: "계획·전체 번역·자산 정리·한 쪽씩 조판과 비교"
+  default_prompt: "이 보드게임 규칙서를 한국어화해 줘. 계획과 표지 타이틀 선택부터 시작하고 각 페이지의 원본 비교본을 보여줘."

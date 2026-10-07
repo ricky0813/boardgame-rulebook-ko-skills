@@ -1,0 +1,20 @@
+{
+  "name": "boardgame-rulebook-ko-skills",
+  "interface": {
+    "displayName": "보드게임 규칙서 한국어화 스킬"
+  },
+  "plugins": [
+    {
+      "name": "boardgame-rulebook-ko",
+      "source": {
+        "source": "local",
+        "path": "./plugins/boardgame-rulebook-ko"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
